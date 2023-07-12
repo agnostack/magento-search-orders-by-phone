@@ -13,7 +13,7 @@ In default Magento 2, there's no built-in functionality to search orders by the 
     cd your/magento/root
     ```
 
-2. Clone the repository into your Magento 2's `app/code` directory:  
+2. Clone the repository into your Magento 2's `app/code` directory (i.e. `app/code/agnoStack/OrderSearchByPhone/...`):  
     ```
     git clone https://github.com/agnostack/magento-search-orders-by-phone.git app/code
     ```
