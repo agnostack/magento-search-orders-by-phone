@@ -50,6 +50,6 @@ curl -X GET "http://<your magento host>/rest/V1/orders/phone/1234567890" -H "Aut
 
 Replace `<your magento host>` with your Magento host URL and `<admin-token>` with the token you received from the /V1/integration/admin/token API.
 
-## How to Test
+## Support
 
 For any further questions, issues, or feedback, please reach out to us at [support@agnostack.com](mailto:support@agnostack.com).
