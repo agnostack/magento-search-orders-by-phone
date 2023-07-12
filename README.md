@@ -1,4 +1,4 @@
-# Magento Search Orders by Phone
+# Magento 2: Search Orders by Phone
 
 ## Overview
 
