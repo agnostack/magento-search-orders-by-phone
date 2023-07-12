@@ -1,6 +1,6 @@
+@license
 MIT License
-
-Copyright (c) 2023 agnoStack, Inc.
+Copyright (c) 2023-present agnoStack, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
