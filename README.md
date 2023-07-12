@@ -2,9 +2,9 @@
 
 ## Overview
 
-The "Magento Search Orders by Phone" module extends the functionality of Magento's REST API by adding a new endpoint which allows searching of orders using a customer's phone number. 
+The "Magento 2: Search Orders by Phone" module extends the functionality of the Magento 2 REST API by adding a new endpoint that allows searching of orders using a phone number. 
 
-In default Magento 2, there's no built-in functionality to search orders by the telephone number associated with the shipping address. This module addresses this limitation, providing an efficient way to locate orders associated with a specific telephone number.
+Magento 2 does not have any built-in functionality to search orders by the telephone number (associated with the shipping address). This module addresses this limitation, providing an efficient way to locate orders associated with a specific telephone number.
 
 ## Installation
 
@@ -23,7 +23,7 @@ In default Magento 2, there's no built-in functionality to search orders by the 
     php bin/magento module:enable agnoStack_OrderSearchByPhone
     ```
 
-4. Upgrade your Magento installation and clear cache. This step is needed to make sure that the module's data setup scripts run properly:
+4. "Upgrade" your Magento installation and clear cache. This step is needed to make sure that the module's data setup scripts run properly:
     ```
     php bin/magento setup:upgrade
     php bin/magento setup:di:compile
@@ -52,4 +52,6 @@ Replace `<your magento host>` with your Magento host URL and `<admin-token>` wit
 
 ## Support
 
-For any further questions, issues, or feedback, please reach out to us at [support@agnostack.com](mailto:support@agnostack.com).
+For any further questions, issues, or feedback - please reach out to us at [support@agnostack.com](mailto:support@agnostack.com).
+
+NOTE: This code is provided as-is and will be community maintained. If you find an issue, problem and/or would like to see additional functionality included please open an Issue and raise a Pull Request with desired changes.
