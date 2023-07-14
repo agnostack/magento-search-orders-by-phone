@@ -13,9 +13,9 @@ Magento 2 does not have any built-in functionality to search orders by the telep
     cd your/magento/root
     ```
 
-2. Clone the repository into your Magento 2's `app/code` directory (i.e. `app/code/agnoStack/OrderSearchByPhone/...`):  
+2. Clone the repository into your Magento 2's `app/code` directory. Ensure the contents of the repository are added into a directory called `agnoStack/OrderSearchByPhone`. (i.e. `app/code/agnoStack/OrderSearchByPhone/`):
     ```
-    git clone https://github.com/agnostack/magento-search-orders-by-phone.git app/code
+    git clone https://github.com/agnostack/magento-search-orders-by-phone.git app/code/agnoStack/OrderSearchByPhone
     ```
 
 3. Enable the module:
